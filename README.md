@@ -8,9 +8,7 @@
 
 ## 💡 About Me
 
-I'm passionate about backend development, DevOps.  
-Currently doing my internship at **Alpata Teknoloji**, where I build real-world DevOps pipelines and monitoring stacks.  
-I participated in Huawei Cloud and DevOps training and continuously expand my skills in Docker, GitHub Actions, scalable backend systems, and software lifecycle management.  
+I'm passionate about backend development, DevOps. Currently doing my internship at **Alpata Teknoloji**, where I build real-world DevOps pipelines and monitoring stacks. I participated in Huawei Cloud and DevOps training and continuously expand my skills in Docker, GitHub Actions, scalable backend systems, and software lifecycle management.  
 
 ---
 
@@ -53,7 +51,7 @@ I participated in Huawei Cloud and DevOps training and continuously expand my sk
 `Java` `C++` `Python` `JavaScript` `SQL`
 
 **Frontend:**  
-`HTML5` `CSS3` `Bootstrap` `jQuery` `Angular`
+`HTML5` `CSS` `Bootstrap` 
 
 **Backend & Tools:**  
 `Node.js` `Express.js` `PostgreSQL` `MSSQL` `Docker` `Git` `WSL`
