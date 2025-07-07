@@ -62,15 +62,6 @@ I'm passionate about backend development, DevOps. Currently doing my internship 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeby-nurgul&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-nurgul&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nurgül-yalman-838a88225)
