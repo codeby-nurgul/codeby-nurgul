@@ -23,7 +23,7 @@ I participated in Huawei Cloud and DevOps training and continuously expand my sk
 - Integrated Trivy and SonarCloud
 - Created a responsive HTML/CSS project deployed with Nginx
 
-### 🛡️ CTSS - AdParcel Project
+### 🛡️ CTSS - AdParcel Project (Intern)
 - Worked on two core modules:
   - Reserved Area Control and Lock Mechanism  
   - Bidding Update and Status Tracking API  
