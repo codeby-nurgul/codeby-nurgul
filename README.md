@@ -49,7 +49,7 @@ I’ve built experience with Docker, GitHub Actions, CI/CD, API integrations, an
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nurgül-yalman)
+- 💼 [LinkedIn](www.linkedin.com/in/nurgul-yalman)
 - 📧 yalmannur624@gmail.com
 - 🌍 [GitHub](https://github.com/codeby-nurgul)
 
