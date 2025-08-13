@@ -1,47 +1,29 @@
 # 👩‍💻 Hi, I'm Nurgül Yalman
 
-🎓 3rd Year Computer Engineering Student at Ankara Yıldırım Beyazıt University  
-🌍 Based in Ankara, Türkiye  
-💬 I share my learning and projects here on GitHub  
+🎓 Final-year Computer Engineering student at Ankara Yıldırım Beyazıt University
+🌍 Based in Ankara, Türkiye
+💬 Sharing my learning journey and projects here on GitHub 
 
 ---
 
 ## 💡 About Me
 
-I'm passionate about backend development, DevOps. Currently doing my internship at **Alpata Teknoloji**, where I build real-world DevOps pipelines and monitoring stacks. I participated in Huawei Cloud and DevOps training and continuously expand my skills in Docker, GitHub Actions, scalable backend systems, and software lifecycle management.  
+I’m passionate about Backend Development and DevOps, and I enjoy turning ideas into functional, scalable systems.
+I’ve built experience with Docker, GitHub Actions, CI/CD, API integrations, and modern monitoring tools. I’m always exploring new technologies and improving my skills through hands-on projects and internships.
 
 ---
 
-## 💼 Experience & Projects
+## 🚀 What I’ve Been Working On
 
-### 🏢 Alpata Teknoloji (Intern)
-- Developed cross-platform log monitoring tools with Bash & PowerShell
-- Dockerized .NET & Python apps with logging using Grafana, Loki, and Promtail
-- Built CI/CD pipelines using GitHub Actions
-- Integrated Trivy and SonarCloud
-- Created a responsive HTML/CSS project deployed with Nginx
+- Building DevOps pipelines, containerized applications, and monitoring stacks during my internship at Alpata Teknoloji.
 
-### 🛡️ CTSS - AdParcel Project (Intern)
-- Worked on two core modules:
-  - Reserved Area Control and Lock Mechanism  
-  - Bidding Update and Status Tracking API  
-- Implemented bid updating logic and dynamic locking features
-- Used Express.js, Sequelize, PostgreSQL
-- Built scalable and modular backend infrastructure for pixel-based ad space system
-  
-### 📱 Google Oyun ve Uygulama Akademisi
-- Developed Pomodoro app using Flutter
-- Participated in Ideathon & App Jam
-- Completed project management & app development training
+- Developing AI-powered solutions and backend systems with FastAPI, API integrations, and LangChain.
 
-### 🌐 Ford Otosan - Gelecek Hayalim
-- Learned frontend tech: HTML, CSS, JS
-- Built a women’s rights guide website using Bootstrap
+- Working on image processing projects during my current internship at Bistek Software, applying computer vision techniques to real-world problems.
 
-### 🛒 Cartify – E-Commerce Desktop App
-- Built with C++ & Qt Framework
-- Designed GUI for shopping, discounts, cart management
-- Used OOP principles: encapsulation, inheritance, polymorphism
+- Designing and implementing API endpoints, relational database models, and real-time notification systems during my internship at CTSS, using Node.js, Express.js, Sequelize, and PostgreSQL.
+
+- Creating practical tools and applications, from e-commerce platforms to productivity apps and web solutions.
 
 ---
 
@@ -54,7 +36,7 @@ I'm passionate about backend development, DevOps. Currently doing my internship 
 `HTML5` `CSS` `Bootstrap` 
 
 **Backend & Tools:**  
-`Node.js` `Express.js` `PostgreSQL` `MSSQL` `Docker` `Git` `WSL`
+`Node.js` `Express.js` `PostgreSQL` `MSSQL` `Docker` `Git` `WSL` `FastAPI` 
 
 **DevOps & Monitoring:**  
 `GitHub Actions` `Docker Compose` `Grafana` `Prometheus` `Zabbix` `Loki`  
@@ -64,10 +46,7 @@ I'm passionate about backend development, DevOps. Currently doing my internship 
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nurgül-yalman-838a88225)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nurgül-yalman)
 - 📧 yalmannur624@gmail.com
 - 🌍 [GitHub](https://github.com/codeby-nurgul)
 
----
-
-_Thanks for visiting my profile! 😊_
