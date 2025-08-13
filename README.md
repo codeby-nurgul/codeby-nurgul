@@ -1,8 +1,11 @@
 # 👩‍💻 Hi, I'm Nurgül Yalman
 
-🎓 Final-year Computer Engineering student at Ankara Yıldırım Beyazıt University &nbsp;|&nbsp;
-🌍 Based in Ankara, Türkiye &nbsp;|&nbsp;
-💬 Sharing my learning journey and projects here on GitHub 
+<p align="center">
+  🎓 Final-year Computer Engineering student at Ankara Yıldırım Beyazıt University &nbsp;|&nbsp;
+  🌍 Based in Ankara, Türkiye &nbsp;|&nbsp;
+  💬 Sharing my learning journey and projects here on GitHub
+</p>
+
 
 ---
 
