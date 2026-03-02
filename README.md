@@ -1,51 +1,51 @@
-# 👩‍💻 Hi, I'm Nurgül Yalman
+👋 Hi, I'm Nurgül Yalman
 
+🎓 Final-year Computer Engineering student at Ankara Yıldırım Beyazıt University
+🌍 Based in Ankara, Türkiye
 
- - 🎓 Final-year Computer Engineering student at Ankara Yıldırım Beyazıt University 
- - 🌍 Based in Ankara, Türkiye 
- - 💬 Sharing my learning journey and projects here on GitHub
+I build backend systems, DevOps pipelines, and AI-powered applications.
+I enjoy turning ideas into scalable, production-ready solutions.
 
+🚀 What I Do
 
+🔧 Build containerized backend applications
 
----
+⚙️ Design and automate CI/CD pipelines
 
-## 💡 About Me
+📡 Develop and integrate REST APIs
 
-I’m passionate about Backend Development and DevOps, and I enjoy turning ideas into functional, scalable systems.
-I’ve built experience with Docker, GitHub Actions, CI/CD, API integrations, and modern monitoring tools. I’m always exploring new technologies and improving my skills through hands-on projects and internships.
+📊 Set up monitoring & logging stacks
 
----
+🤖 Work on AI-powered solutions & computer vision projects
 
-## 🚀 What I’ve Been Working On
+🏗️ Currently Working On
 
-- Building DevOps pipelines, containerized applications, and monitoring stacks during my internship at Alpata Teknoloji.
+DevOps pipelines & monitoring stacks (Docker, CI/CD, Prometheus, Grafana)
 
-- Developing AI-powered solutions and backend systems with FastAPI, API integrations, and LangChain.
+AI-based backend systems with FastAPI & LangChain
 
-- Working on image processing projects during my current internship at Bistek Software, applying computer vision techniques to real-world problems.
+Image processing & computer vision projects
 
-- Designing and implementing API endpoints, relational database models, and real-time notification systems during my internship at CTSS, using Node.js, Express.js, Sequelize, and PostgreSQL.
+Real-time systems with WebSocket & relational databases
 
-- Creating practical tools and applications, from e-commerce platforms to productivity apps and web solutions.
+🛠️ Tech Stack
+💻 Languages
 
----
+Java C++ Python JavaScript SQL
 
-## 🛠 Skills
+🌐 Backend
 
-**Languages:**  
-`Java` `C++` `Python` `JavaScript` `SQL`
+Node.js Express.js FastAPI PostgreSQL MSSQL
 
-**Frontend:**  
-`HTML5` `CSS` `Bootstrap` 
+🖥️ Frontend
 
-**Backend & Tools:**  
-`Node.js` `Express.js` `PostgreSQL` `MSSQL` `Docker` `Git` `WSL` `FastAPI` 
+HTML5 CSS Bootstrap
 
-**DevOps & Monitoring:**  
-`GitHub Actions` `Docker Compose` `Grafana` `Prometheus` `Zabbix` `Loki`  
-`Trivy` `SonarCloud` `WebSocket` `Jira`
+⚙️ DevOps & Tools
 
----
+Docker Docker Compose GitHub Actions
+Prometheus Grafana Loki Zabbix
+Trivy SonarCloud Git WSL Jira
 
 ## 🌐 Connect with Me
 
