@@ -1,53 +1,48 @@
 # 👋 Hi, I'm Nurgül Yalman
 
-🎓 Final-year Computer Engineering student  
-📍 Ankara, Türkiye  
+🎓 Computer Engineering graduate 
 
-I build backend systems, DevOps pipelines, and AI-powered applications.  
-I enjoy turning ideas into scalable, production-ready solutions.
+I'm a **Full-Stack Developer** who enjoys taking products from idea to production — building
+React / Next.js interfaces on top of Java (Spring Boot) and Node.js / NestJS services, then
+shipping them with Docker and CI/CD. I also love integrating AI/ML into real backends.
 
 ---
 
-## 🚀 What I’m Focused On
+## 🚀 What I'm Focused On
 
-- 🐳 Containerized backend applications  
-- ⚙️ CI/CD automation & DevOps pipelines  
-- 🔌 REST API development & integrations  
-- 📊 Monitoring & logging stacks  
-- 🤖 AI-powered systems & computer vision  
+- 🔌 REST API development & backend systems
+- 🧩 Microservices & event-driven architectures
+- 🤖 AI/LLM integration in production backends
+- 🐳 Containerization, CI/CD & observability
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-`Java` `C++` `Python` `JavaScript` `SQL`
+**Languages** &nbsp;`Java` `Python` `TypeScript` `JavaScript` `Go` `SQL` `C++`
 
-### 🧠 Backend
-`Node.js` `Express.js` `FastAPI`  
-`PostgreSQL` `MSSQL`
+**Backend** &nbsp;`Spring Boot` `Spring Cloud` `Node.js` `NestJS` `Express.js` `FastAPI` `REST / OpenAPI`
 
-### 🌐 Frontend
-`HTML` `CSS` `Bootstrap`
+**Frontend** &nbsp;`React` `Next.js` `TypeScript` `Tailwind CSS`
 
-### ⚙️ DevOps & Tools
-`Docker` `Docker Compose` `GitHub Actions`  
-`Prometheus` `Grafana` `Loki` `Zabbix`  
-`Trivy` `SonarCloud`  
-`Git` `WSL` `Jira`
+**Data & Messaging** &nbsp;`PostgreSQL` `PostGIS` `MongoDB` `MSSQL` `Redis` `Apache Kafka`
+
+**AI / ML** &nbsp;`LangChain` `OpenAI API` `XGBoost` `LightGBM` `LLaVA` `Dify` `Prompt Engineering`
+
+**DevOps & Observability** &nbsp;`Docker` `Docker Compose` `CI/CD (GitHub Actions, GitLab CI)` `Prometheus` `Grafana` `ELK` `Zipkin` `Loki` `Zabbix` `Trivy` `SonarCloud` `Linux / Bash`
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced DevOps practices  
-- AI integrations in backend systems  
-- Scalable system design  
-- Real-time architectures (WebSocket-based systems)
+- Event-driven & real-time architectures (Kafka, WebSockets)
+- AI/LLM integration in production backends
+- Scalable system design & clean architecture
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: linkedin.com/in/nurgul-yalman  
-- ✍️ Medium: medium.com/@yalmanurgul
+- 💼 LinkedIn: [linkedin.com/in/nurgul-yalman](https://linkedin.com/in/nurgul-yalman)
+- ✍️ Medium: [medium.com/@yalmannurgul](https://medium.com/@yalmannurgul)
+- 📧 yalmannur624@gmail.com
